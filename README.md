@@ -126,3 +126,5 @@ Use freely. Attribution appreciated but not required.
 
 Ethical AI does not require machines to decide what is right.
 It requires machines to **avoid making systems worse than humans can recover from**.
+
+This project represents my personal views and does not reflect the views of my employer.
