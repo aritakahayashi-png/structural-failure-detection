@@ -1,0 +1,18 @@
+{
+  "scores": {
+    "irreversibility": 0.6,
+    "cost_concentration": 0.4,
+    "feedback_suppression": 0.7,
+    "recursive_intrusion": 0.5,
+    "overall": 0.55,
+    "confidence": 0.75
+  },
+  "recommendations": [
+    "Create a safe feedback channel",
+    "Add recovery margin before escalating commitments",
+    "Introduce a neutral review for workload changes"
+  ],
+  "notes": [
+    "This output contains no moral judgment and no actor labeling."
+  ]
+}
