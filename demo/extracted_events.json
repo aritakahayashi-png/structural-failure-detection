@@ -1,0 +1,27 @@
+{
+  "schema_version": "SFD-1.0",
+  "source_item": { "id": "demo", "timestamp": null, "source_type": "text" },
+  "events": [
+    {
+      "event_id": "e1",
+      "event_type": "Overload",
+      "severity": 0.7,
+      "confidence": 0.8,
+      "evidence": { "quote": "the workload has doubled" }
+    },
+    {
+      "event_id": "e2",
+      "event_type": "FeedbackSuppression",
+      "severity": 0.7,
+      "confidence": 0.7,
+      "evidence": { "quote": "my message was ignored" }
+    },
+    {
+      "event_id": "e3",
+      "event_type": "SleepDisruption",
+      "severity": 0.6,
+      "confidence": 0.8,
+      "evidence": { "quote": "sleeping poorly" }
+    }
+  ]
+}
